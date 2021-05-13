@@ -1,12 +1,12 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
+title: TJ
 email:
-  url: mailto:woden@cs.cmu.edu
-  text: woden@cs.cmu.edu
+  url: i@voox.cc
+  text: i@voox.cc
 homepage:
-  url: http://cs.cmu.edu/~woden
-  text: cs.cmu.edu/~woden
+  url: https://voox.cc
+  text: voox.cc
 ---
 
 # Wode **Ni**
