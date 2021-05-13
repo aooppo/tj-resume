@@ -8,6 +8,9 @@ homepage:
   url: https://voox.cc
   text: voox.cc
 phone: 130********  
+link:
+  url: /
+  text: English
 ---
 
 # TJ **个人简历**

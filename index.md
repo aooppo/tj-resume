@@ -7,6 +7,9 @@ email:
 homepage:
   url: https://voox.cc
   text: voox.cc
+link:
+  url: /resume-zh
+  text: 中文
 ---
 
 # TJ **Resume**
