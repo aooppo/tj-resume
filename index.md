@@ -47,24 +47,24 @@ Senior Software Engineer
 
 ##### **E-commerce platform middleware project** `2020.1 - 2021.5`
 
-> Responsible for the construction and implementation of the entire project, the use of multi-tenant and multi-user, the data synchronization of the e-commerce platform and the ERP system, and a set of UI, which can dynamically define the relevant mapping between the e-commerce platform and the ERP system.
+- Responsible for the construction and implementation of the entire project, the use of multi-tenant and multi-user, the data synchronization of the e-commerce platform and the ERP system, and a set of UI, which can dynamically define the relevant mapping between the e-commerce platform and the ERP system.
 
 <br/>
 
 ##### **Tornatech ERP** `2017.3 - now `
 
-> Responsible for WO, SO, Product, SP, Picking slip and other modules.
+- Responsible for WO, SO, Product, SP, Picking slip and other modules.
 
 <br/>
 
 ##### **XXL project secondary development** `2017.3 - 2019.6`
-> Responsible for the secondary development of XXL job and XXL config projects, and cooperate with other projects within the integration company.
+- Responsible for the secondary development of XXL job and XXL config projects, and cooperate with other projects within the integration company.
 
 <br/>
 
 ##### **Franklin ERP** `2013.7 - 2018.6`
 
-> Responsible for dynamic schedule task, SO, PO, TO, Item, Customer and other modules.
+- Responsible for dynamic schedule task, SO, PO, TO, Item, Customer and other modules.
 
 
 

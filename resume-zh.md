@@ -49,24 +49,24 @@ Supported arguments:
 
 ##### **电商平台中间件项目** `2020.1 - 2021.5`
 
-> 负责整个项目搭建与实现,多租户与多用户的使用，电商平台和ERP系统数据同步，提供一套UI，可以动态定义电商平台和ERP系统的相关映射
+- 负责整个项目搭建与实现,多租户与多用户的使用，电商平台和ERP系统数据同步，提供一套UI，可以动态定义电商平台和ERP系统的相关映射
 
 <br/>
 
-##### **T公司ERP项目** `2017.3 - 至今`
+##### **Tornatech ERP项目** `2017.3 - 至今`
 
-> 负责WO, SO, Product, SP, Picking slip等模块, 
+- 负责WO, SO, Product, SP, Picking slip等模块, 
 
 <br/>
 
 ##### **XXL项目二次开发** `2017.3 - 2019.6`
-> 负责XXL job, XXL config项目二次开发，并配合集成公司内部其他项目使用
+- 负责XXL job, XXL config项目二次开发，并配合集成公司内部其他项目使用
 
 <br/>
 
-##### **F公司ERP项目** `2013.7 - 2018.6`
+##### **Franklin ERP项目** `2013.7 - 2018.6`
 
-> 负责dynamic schedule task, SO, PO, TO, Item, Customer等模块
+- 负责dynamic schedule task, SO, PO, TO, Item, Customer等模块
 
 
 
