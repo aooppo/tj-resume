@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: TJ resume
+title: 天骥个人简历
 email:
   text: i[at]voox.cc
 homepage:
@@ -8,7 +8,7 @@ homepage:
   text: voox.cc
 ---
 
-# TJ **Resume**
+# 天骥 **个人简历**
 
 <!--
 include contact information from the front matter
@@ -20,7 +20,7 @@ Supported arguments:
 
 {% include cv-contact.html %}
 
-## Education
+## 教育背景
 
 ### **Carnegie Mellon University** `2018.9 -`
 
@@ -50,7 +50,7 @@ Carlisle, PA
 - Computer Science Departmental Honors
 
 
-## Experience
+## 工作经验
 
 ### **Microsoft Research** `2020.5 -`
 
@@ -92,7 +92,7 @@ John Montgomery Scholarship `Dickinson, 2013` <br>
 
 ---
 
-## Teaching
+## 技能特长
 
 Teaching Assistant, **Programming Languages and Translators (COMS 4115)** `Columbia, 2017 - 2018` <br>
 Teaching Assistant, **Introduction to Java II (COMP 132)** `Dickinson, 2016` <br>
