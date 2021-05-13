@@ -76,8 +76,8 @@ Java  **Spring, Spring-boot, Spring-cloud, hibernate, Mybatis, JPA, Netty**  `�
 Javascript  **Nodejs, Typescript**  `熟悉` <br>
 GraphQL `熟悉` <br>
 Postgres, Mysql,Redis, Elasticsearch `熟悉` <br>
-Docker, **Kubenetes** `了解` <br>
-
+Docker `了解` <br>
+Kubenetes `了解` <br>
 
 <!-- ### Footer
 
