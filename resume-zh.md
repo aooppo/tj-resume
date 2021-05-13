@@ -2,7 +2,8 @@
 layout: cv
 title: 天骥个人简历
 email:
-  text: i[at]voox.cc
+  url: mailto:i@voox.cc
+  text: i@voox.cc
 homepage:
   url: https://voox.cc
   text: voox.cc
@@ -22,41 +23,24 @@ Supported arguments:
 
 ## 教育背景
 
-### **Carnegie Mellon University** `2018.9 -`
+
+### **沈阳航空航天大学** `2011.9 - 2013.6`
 
 ```
-Pittsburgh, PA
+辽宁省沈阳市
 ```
 
-- Ph.D. in Software Engineering
-- Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
-
-### **Columbia University** `2016.9 - 2018.5`
-
-```
-New York, NY
-```
-
-- B.S. in Computer Science, _Magna Cum Laude_
+- 计算机与科学技术
 - Vision, Graphics track
-
-### **Dickinson College** `2013.9 - 2016.5`
-
-```
-Carlisle, PA
-```
-
-- B.S. in Computer Science, _Summa Cum Laude_
-- Computer Science Departmental Honors
 
 
 ## 工作经验
 
-### **Microsoft Research** `2020.5 -`
+### **大连心水科技有限公司** `2013.7 - 至今`
 
-_Research Intern_<br>
+_T公司ERP项目_<br>
 
-### **Carnegie Mellon University, Research Experiences for Undergraduate** `2017.5 - 2017.8`
+### **T公司** `2017.3 - 至今`
 
 _Research Assistant_<br>
 **Penrose** is a system that automatically visualizes mathematics using two domain-specific languages: **Substance** and **Style**. Co-advised by [Jonathan Aldrich](https://www.cs.cmu.edu/~./aldrich/), [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/), [Joshua Sunshine](http://www.cs.cmu.edu/~jssunshi/), and [Katherine Ye](https://www.cs.cmu.edu/~kqy/), I designed and implemented the Style language, and extended the Substance language to support functions and logically quantified statements.
