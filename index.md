@@ -55,7 +55,7 @@ _**E-commerce platform middleware project**_ `2020.1 - 2021.5`
 
 _**Standpointe Web**_ `2019.1 - 2019.11`
 
-- 负责注册登录，重置密码，进度条，问卷系统前后端实现。
+- Responsible for registration and login, password reset, progress bar, front-end and back-end implementation of the questionnaire system.
 
 <br/>
 
