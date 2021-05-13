@@ -66,12 +66,12 @@ Shenyang, Liaoning
 
 ## Skill
 
-Java  **Spring, Spring-boot, Spring-cloud, hibernate, Mybatis, JPA, Netty**  `熟悉` <br>
-Javascript  **Nodejs, Typescript**  `熟悉` <br>
-GraphQL `熟悉` <br>
-Postgres, Mysql,Redis, Elasticsearch `熟悉` <br>
-Docker, **Kubenetes** `了解` <br>
-
+Java  **Spring, Spring-boot, Spring-cloud, hibernate, Mybatis, JPA, Netty**  `Competent` <br>
+Javascript  **Nodejs, Typescript**  `Competent` <br>
+GraphQL `Competent` <br>
+Postgres, Mysql,Redis, Elasticsearch `Competent` <br>
+Docker `Competent` <br>
+Kubenetes `Advanced beginner` <br>
 
 <!-- ### Footer
 
