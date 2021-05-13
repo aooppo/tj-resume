@@ -7,6 +7,7 @@ email:
 homepage:
   url: https://voox.cc
   text: voox.cc
+phone: 130********  
 ---
 
 # TJ **个人简历**
@@ -41,7 +42,7 @@ Supported arguments:
 
 ##### **电商平台中间件项目** `2020.1 - 2021.5`
 
-> 负责整个项目搭建与实现,多租户与多用户的使用，电商平台和ERP系统的解耦，提供一套UI，可以动态定义电商平台和ERP系统的传输
+> 负责整个项目搭建与实现,多租户与多用户的使用，电商平台和ERP系统数据同步，提供一套UI，可以动态定义电商平台和ERP系统的相关映射
 
 <br/>
 
@@ -51,14 +52,14 @@ Supported arguments:
 
 <br/>
 
-##### **XXL项目二次开发** `2017.3 - 至今`
+##### **XXL项目二次开发** `2017.3 - 2019.6`
 > 负责XXL job, XXL config项目二次开发，并配合集成公司内部其他项目使用
 
 <br/>
 
 ##### **F公司ERP项目** `2013.7 - 2018.6`
 
-> 负责dynamic schedule task, SO, PO, Item等模块
+> 负责dynamic schedule task, SO, PO, TO, Item, Customer等模块
 
 
 
@@ -68,9 +69,11 @@ Supported arguments:
 
 ## 技能特长
 
-Java  **Programming Languages and Translators (COMS 4115)** `Columbia, 2017 - 2018` <br>
-Nodejs, **Introduction to Java II (COMP 132)** `Dickinson, 2016` <br>
-
+Java  **Spring, Spring-boot, Spring-cloud, hibernate, Mybatis, JPA, Netty**  `熟悉` <br>
+Javascript  **Nodejs, Typescript**  `熟悉` <br>
+GraphQL `熟悉` <br>
+Postgres, Mysql,Redis, Elasticsearch `熟悉` <br>
+Docker, **Kubenetes** `了解` <br>
 
 
 <!-- ### Footer
