@@ -27,7 +27,7 @@ Supported arguments:
 
 ## Education
 
-### **Carnegie Mellon University** `2011.9-2013.6`
+### **Shenyang Aerospace University** `2011.9-2013.6`
 
 ```
 Shenyang, Liaoning
