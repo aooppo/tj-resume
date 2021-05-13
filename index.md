@@ -2,7 +2,8 @@
 layout: cv
 title: TJ resume
 email:
-  text: i[at]voox.cc
+  url: mailto:i@voox.cc
+  text: i@voox.cc
 homepage:
   url: https://voox.cc
   text: voox.cc
