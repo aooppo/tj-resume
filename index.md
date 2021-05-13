@@ -39,6 +39,9 @@ Shenyang, Liaoning
 ## Experience
 
 ### **Dalian Trinitesolutions Technology Co., Ltd.** `2013.7 - now`
+```
+Senior Software Engineer
+```
 
 <br/>
 
@@ -54,7 +57,7 @@ Shenyang, Liaoning
 
 <br/>
 
-##### **XXL project secondary developmen** `2017.3 - 2019.6`
+##### **XXL project secondary development** `2017.3 - 2019.6`
 > Responsible for the secondary development of XXL job and XXL config projects, and cooperate with other projects within the integration company.
 
 <br/>
