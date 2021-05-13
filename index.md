@@ -53,6 +53,12 @@ _**E-commerce platform middleware project**_ `2020.1 - 2021.5`
 
 <br/>
 
+_**Standpointe Web**_ `2019.1 - 2019.11`
+
+- 负责注册登录，重置密码，进度条，问卷系统前后端实现。
+
+<br/>
+
 _**Tornatech ERP**_ `2017.3 - now `
 
 - Responsible for WO, SO, Product, SP, Picking slip and other modules.
@@ -79,9 +85,9 @@ _**Franklin ERP**_  `2013.7 - 2018.6`
 Java  **Spring, Spring-boot, Spring-cloud, hibernate, Mybatis, JPA, Netty**  `Competent` <br>
 Javascript  **Nodejs, Typescript**  `Competent` <br>
 GraphQL `Competent` <br>
-Postgres, Mysql,Redis, Elasticsearch `Competent` <br>
-Docker `Competent` <br>
-Kubenetes `Advanced beginner` <br>
+Postgres, Mysql, RabbitMQ, Redis, Elasticsearch `Competent` <br>
+Docker, Git, Bitbucket, GitHhub, Jira, Shell `Competent` <br>
+Kubenetes, Jenkins, Puppeteer `Advanced beginner` <br>
 
 <!-- ### Footer
 
