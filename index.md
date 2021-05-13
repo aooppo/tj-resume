@@ -33,9 +33,11 @@ Supported arguments:
 Shenyang, Liaoning
 ```
 
-- Bachelor of Computer and Science Technology
-
-
+- Computer and Science Technology Major
+```
+Bachelor Degree
+```
+ 
 ## Experience
 
 ### **Dalian Trinitesolutions Technology Co., Ltd.** `2013.7 - now`
