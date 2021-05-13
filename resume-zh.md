@@ -9,7 +9,7 @@ homepage:
   text: voox.cc
 ---
 
-# 天骥 **个人简历**
+# TJ **个人简历**
 
 <!--
 include contact information from the front matter
@@ -37,22 +37,30 @@ Supported arguments:
 
 ### **大连X科技有限公司** `2013.7 - 至今`
 
-_T公司ERP项目_<br>
+<br/>
 
-### **T公司** `2017.3 - 至今`
+##### **电商平台中间件项目** `2020.1 - 2021.5`
 
-_生产管理_<br>
-**生产管理** is a system that automatically visualizes mathematics using two domain-specific languages: **Substance** and **Style**. Co-advised by [Jonathan Aldrich](https://www.cs.cmu.edu/~./aldrich/), [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/), [Joshua Sunshine](http://www.cs.cmu.edu/~jssunshi/), and [Katherine Ye](https://www.cs.cmu.edu/~kqy/), I designed and implemented the Style language, and extended the Substance language to support functions and logically quantified statements.
+> 负责整个项目搭建与实现,多租户与多用户的使用，电商平台和ERP系统的解耦，提供一套UI，可以动态定义电商平台和ERP系统的传输
 
-### **Columbia University, Computer Graphics and User Interfaces Lab** `2017.1 - 2017.5`
+<br/>
 
-_销售管理_<br>
-Worked with prof. Steven Feiner, on **Cyber Affordance Visualization in Augumented Reality** project. Developed a Microsoft Hololens application that visualizes the Columbia campus in AR environment.
+##### **T公司ERP项目** `2017.3 - 至今`
 
-### **AsiaInfo** `2015.6 - 2015.8`
+> 负责WO, SO, Product, SP, Picking slip等模块, 
 
-__<br>
-Worked on server-side web applications and server deployment tools.
+<br/>
+
+##### **XXL项目二次开发** `2017.3 - 至今`
+> 负责XXL job, XXL config项目二次开发，并配合集成公司内部其他项目使用
+
+<br/>
+
+##### **F公司ERP项目** `2013.7 - 2018.6`
+
+> 负责dynamic schedule task, SO, PO, Item等模块
+
+
 
 
 
