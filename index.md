@@ -7,6 +7,7 @@ email:
 homepage:
   url: https://voox.cc
   text: voox.cc
+phone: 130********  
 link:
   url: /resume-zh
   text: 中文
