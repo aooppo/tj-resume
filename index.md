@@ -49,7 +49,7 @@ Senior Software Engineer
 
 _**E-commerce platform middleware project**_ `2020.1 - 2021.5`
 
-- Responsible for the construction and implementation of the entire project, the use of multi-tenant and multi-user, the data synchronization of the e-commerce platform and the ERP system, and a set of UI, which can dynamically define the relevant mapping between the e-commerce platform and the ERP system.
+- Responsible for the construction and realization of the entire project, the synchronization of the e-commerce platform and ERP system data.
 
 <br/>
 
